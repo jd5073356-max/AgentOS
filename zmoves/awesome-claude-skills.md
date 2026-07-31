@@ -1,0 +1,835 @@
+# Movimientos Z · categoría: awesome-claude-skills
+> 832 skills. Cada una es un superpoder temporal que cualquier ejecutor/agente puede equipar.
+
+- **-21risk-automation** — Automate 21risk tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **-2chat-automation** — Automate 2chat tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ably-automation** — Automate Ably tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **abstract-automation** — Automate Abstract tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **abuselpdb-automation** — Automate Abuselpdb tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **abyssale-automation** — Automate Abyssale tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **accelo-automation** — Automate Accelo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **accredible-certificates-automation** — Automate Accredible Certificates tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **acculynx-automation** — Automate Acculynx tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **active-campaign-automation** — Automate ActiveCampaign tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **addresszen-automation** — Automate Addresszen tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **adobe-automation** — Automate Adobe tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **adrapid-automation** — Automate Adrapid tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **adyntel-automation** — Automate Adyntel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **aero-workflow-automation** — Automate Aero Workflow tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **aeroleads-automation** — Automate Aeroleads tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **affinda-automation** — Automate Affinda tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **affinity-automation** — Automate Affinity tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **agencyzoom-automation** — Automate Agencyzoom tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **agent-mail-automation** — Automate Agent Mail tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **agentql-automation** — Automate Agentql tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **agenty-automation** — Automate Agenty tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **agiled-automation** — Automate Agiled tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **agility-cms-automation** — Automate Agility CMS tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Ahrefs Automation** — Automate SEO research with Ahrefs -- analyze backlink profiles, research keywords, track domain metrics history, audit organic rankings, and perform batch URL a
+- **ai-ml-api-automation** — Automate AI ML API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **aivoov-automation** — Automate Aivoov tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **alchemy-automation** — Automate Alchemy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **algodocs-automation** — Automate Algodocs tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **algolia-automation** — Automate Algolia tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **all-images-ai-automation** — Automate All Images AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **alpha-vantage-automation** — Automate Alpha Vantage tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **altoviz-automation** — Automate Altoviz tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **alttext-ai-automation** — Automate Alttext AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **amara-automation** — Automate Amara tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **amazon-automation** — Automate Amazon tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ambee-automation** — Automate Ambee tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ambient-weather-automation** — Automate Ambient Weather tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **amcards-automation** — Automate Amcards tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **anchor-browser-automation** — Automate Anchor Browser tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **anonyflow-automation** — Automate Anonyflow tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **anthropic-administrator-automation** — Automate Anthropic Admin tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **anthropic_administrator-automation** — Automate Anthropic Admin tasks via Rube MCP (Composio): API keys, usage, workspaces, and organization management. Always search tools first for current schemas.
+- **apaleo-automation** — Automate Apaleo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **apex27-automation** — Automate Apex27 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **api-bible-automation** — Automate API Bible tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **api-labz-automation** — Automate API Labz tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **api-ninjas-automation** — Automate API Ninjas tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **api-sports-automation** — Automate API Sports tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **api2pdf-automation** — Automate Api2pdf tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **apiflash-automation** — Automate Apiflash tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Apify Automation** — Automate web scraping and data extraction with Apify -- run Actors, manage datasets, create reusable tasks, and retrieve crawl results through the Composio Apif
+- **apilio-automation** — Automate Apilio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **apipie-ai-automation** — Automate Apipie AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **apitemplate-io-automation** — Automate Apitemplate IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **apiverve-automation** — Automate Apiverve tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Apollo Automation** — Automate Apollo.io lead generation -- search organizations, discover contacts, enrich prospect data, manage contact stages, and build targeted outreach lists --
+- **appcircle-automation** — Automate Appcircle tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **appdrag-automation** — Automate Appdrag tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **appointo-automation** — Automate Appointo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **appsflyer-automation** — Automate Appsflyer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **appveyor-automation** — Automate Appveyor tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **aryn-automation** — Automate Aryn tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ascora-automation** — Automate Ascora tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Ashby Automation** — Automate recruiting and hiring workflows in Ashby -- manage candidates, jobs, applications, interviews, and notes through natural language commands.
+- **asin-data-api-automation** — Automate Asin Data API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **astica-ai-automation** — Automate Astica AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **async-interview-automation** — Automate Async Interview tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **atlassian-automation** — Automate Atlassian tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Attio Automation** — Automate Attio CRM operations -- search records, query contacts and companies with advanced filters, manage notes, list attributes, and navigate your relationsh
+- **auth0-automation** — Automate Auth0 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **autobound-automation** — Automate Autobound tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **autom-automation** — Automate Autom tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **axonaut-automation** — Automate Axonaut tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ayrshare-automation** — Automate Ayrshare tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **backendless-automation** — Automate Backendless tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bannerbear-automation** — Automate Bannerbear tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bart-automation** — Automate Bart tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **baselinker-automation** — Automate Baselinker tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **baserow-automation** — Automate Baserow tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **basin-automation** — Automate Basin tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **battlenet-automation** — Automate Battlenet tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **beaconchain-automation** — Automate Beaconchain tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **beaconstac-automation** — Automate Beaconstac tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **beamer-automation** — Automate Beamer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **beeminder-automation** — Automate Beeminder tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bench-automation** — Automate Bench tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **benchmark-email-automation** — Automate Benchmark Email tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **benzinga-automation** — Automate Benzinga tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bestbuy-automation** — Automate Bestbuy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **better-proposals-automation** — Automate Better Proposals tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **better-stack-automation** — Automate Better Stack tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bidsketch-automation** — Automate Bidsketch tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **big-data-cloud-automation** — Automate Big Data Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bigmailer-automation** — Automate Bigmailer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bigml-automation** — Automate Bigml tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bigpicture-io-automation** — Automate Bigpicture IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bitquery-automation** — Automate Bitquery tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bitwarden-automation** — Automate Bitwarden tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **blackbaud-automation** — Automate Blackbaud tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **blackboard-automation** — Automate Blackboard tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **blocknative-automation** — Automate Blocknative tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **boldsign-automation** — Automate Boldsign tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bolna-automation** — Automate Bolna tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **boloforms-automation** — Automate Boloforms tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bolt-iot-automation** — Automate Bolt Iot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bonsai-automation** — Automate Bonsai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bookingmood-automation** — Automate Bookingmood tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **booqable-automation** — Automate Booqable tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **borneo-automation** — Automate Borneo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **botbaba-automation** — Automate Botbaba tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **botpress-automation** — Automate Botpress tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **botsonic-automation** — Automate Botsonic tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **botstar-automation** — Automate Botstar tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bouncer-automation** — Automate Bouncer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **boxhero-automation** — Automate Boxhero tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Braintree Automation** — Braintree Automation: manage payment processing via Stripe-compatible tools for customers, subscriptions, payment methods, and transactions
+- **brandfetch-automation** — Automate Brandfetch tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **breeze-automation** — Automate Breeze tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **breezy-hr-automation** — Automate Breezy HR tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **brex-automation** — Automate Brex tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **brex-staging-automation** — Automate Brex Staging tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **brightdata-automation** — Automate Brightdata tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **brightpearl-automation** — Automate Brightpearl tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **brilliant-directories-automation** — Automate Brilliant Directories tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **browseai-automation** — Automate Browseai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **browser-tool-automation** — Automate Browser Tool tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **browserbase-tool-automation** — Automate Browserbase Tool tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **browserhub-automation** — Automate Browserhub tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **browserless-automation** — Automate Browserless tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **btcpay-server-automation** — Automate Btcpay Server tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bubble-automation** — Automate Bubble tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bugbug-automation** — Automate Bugbug tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bugherd-automation** — Automate Bugherd tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bugsnag-automation** — Automate Bugsnag tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **buildkite-automation** — Automate Buildkite tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **builtwith-automation** — Automate Builtwith tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **bunnycdn-automation** — Automate Bunnycdn tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **byteforms-automation** — Automate Byteforms tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cabinpanda-automation** — Automate Cabinpanda tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cal-automation** — Automate Cal tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **calendarhero-automation** — Automate Calendarhero tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **callerapi-automation** — Automate Callerapi tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **callingly-automation** — Automate Callingly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **callpage-automation** — Automate Callpage tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **campaign-cleaner-automation** — Automate Campaign Cleaner tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **campayn-automation** — Automate Campayn tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **canny-automation** — Automate Canny tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **canvas-automation** — Automate Canvas tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Capsule CRM Automation** — Automate Capsule CRM operations -- manage contacts (parties), run structured filter queries, track tasks and projects, log entries, and handle organizations -- 
+- **capsule_crm-automation** — Automate Capsule CRM tasks via Rube MCP (Composio): contacts, opportunities, cases, tasks, and pipeline management. Always search tools first for current schema
+- **carbone-automation** — Automate Carbone tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cardly-automation** — Automate Cardly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **castingwords-automation** — Automate Castingwords tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cats-automation** — Automate Cats tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cdr-platform-automation** — Automate Cdr Platform tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **census-bureau-automation** — Automate Census Bureau tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **centralstationcrm-automation** — Automate Centralstationcrm tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **certifier-automation** — Automate Certifier tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **chaser-automation** — Automate Chaser tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **chatbotkit-automation** — Automate Chatbotkit tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **chatfai-automation** — Automate Chatfai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **chatwork-automation** — Automate Chatwork tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **chmeetings-automation** — Automate Chmeetings tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cincopa-automation** — Automate Cincopa tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **claid-ai-automation** — Automate Claid AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **classmarker-automation** — Automate Classmarker tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **clearout-automation** — Automate Clearout tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **clickmeeting-automation** — Automate Clickmeeting tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Clockify Automation** — Automate time tracking workflows in Clockify -- create and manage time entries, workspaces, and users through natural language commands.
+- **cloudcart-automation** — Automate Cloudcart tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cloudconvert-automation** — Automate Cloudconvert tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cloudflare-api-key-automation** — Automate Cloudflare API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cloudflare-automation** — Automate Cloudflare tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cloudflare-browser-rendering-automation** — Automate Cloudflare Browser Rendering tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Cloudinary Automation** — Automate Cloudinary media management including folder organization, upload presets, asset lookup, transformations, and usage monitoring through natural language
+- **cloudlayer-automation** — Automate Cloudlayer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cloudpress-automation** — Automate Cloudpress tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **coassemble-automation** — Automate Coassemble tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **codacy-automation** — Automate Codacy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **codeinterpreter-automation** — Automate Codeinterpreter tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **codereadr-automation** — Automate Codereadr tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Coinbase Automation** — Coinbase Automation: list and manage cryptocurrency wallets, accounts, and portfolio data via Coinbase CDP SDK
+- **coinmarketcal-automation** — Automate Coinmarketcal tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **coinmarketcap-automation** — Automate Coinmarketcap tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **coinranking-automation** — Automate Coinranking tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **college-football-data-automation** — Automate College Football Data tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **composio-automation** — Automate Composio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **composio-search-automation** — Automate Composio Search tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **connecteam-automation** — Automate Connecteam tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Contentful Automation** — Automate headless CMS operations in Contentful -- list spaces, retrieve space metadata, and update space configurations through the Composio Contentful integrat
+- **contentful-graphql-automation** — Automate Contentful Graphql tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **control-d-automation** — Automate Control D tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **conversion-tools-automation** — Automate Conversion Tools tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **convertapi-automation** — Automate Convertapi tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **conveyor-automation** — Automate Conveyor tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **convolo-ai-automation** — Automate Convolo AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **corrently-automation** — Automate Corrently tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **countdown-api-automation** — Automate Countdown API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **coupa-automation** — Automate Coupa tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **craftmypdf-automation** — Automate Craftmypdf tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **crowdin-automation** — Automate Crowdin tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **crustdata-automation** — Automate Crustdata tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cults-automation** — Automate Cults tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **curated-automation** — Automate Curated tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **currents-api-automation** — Automate Currents API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Customer.io Automation** — Automate customer engagement workflows including broadcast triggers, message analytics, segment management, and newsletter tracking through Customer.io via Comp
+- **customgpt-automation** — Automate Customgpt tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **customjs-automation** — Automate Customjs tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **cutt-ly-automation** — Automate Cutt Ly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **d2lbrightspace-automation** — Automate D2lbrightspace tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dadata-ru-automation** — Automate Dadata Ru tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **daffy-automation** — Automate Daffy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dailybot-automation** — Automate Dailybot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **datagma-automation** — Automate Datagma tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **datarobot-automation** — Automate Datarobot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **deadline-funnel-automation** — Automate Deadline Funnel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **deel-automation** — Automate Deel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **deepgram-automation** — Automate Deepgram tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **demio-automation** — Automate Demio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **desktime-automation** — Automate Desktime tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **detrack-automation** — Automate Detrack tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dialmycalls-automation** — Automate Dialmycalls tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dialpad-automation** — Automate Dialpad tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dictionary-api-automation** — Automate Dictionary API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **diffbot-automation** — Automate Diffbot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **digicert-automation** — Automate Digicert tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **digital-ocean-automation** — Automate DigitalOcean tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **discordbot-automation** — Automate Discordbot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dnsfilter-automation** — Automate Dnsfilter tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dock-certs-automation** — Automate Dock Certs tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Docker Hub Automation** — Automate Docker Hub operations -- manage organizations, repositories, teams, members, and webhooks via the Composio MCP integration.
+- **docker_hub-automation** — Automate Docker Hub tasks via Rube MCP (Composio): repositories, images, tags, and container registry management. Always search tools first for current schemas.
+- **docmosis-automation** — Automate Docmosis tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **docnify-automation** — Automate Docnify tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **docsbot-ai-automation** — Automate Docsbot AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **docsumo-automation** — Automate Docsumo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **docugenerate-automation** — Automate Docugenerate tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **documenso-automation** — Automate Documenso tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **documint-automation** — Automate Documint tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **docupilot-automation** — Automate Docupilot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **docupost-automation** — Automate Docupost tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **docuseal-automation** — Automate Docuseal tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **doppler-marketing-automation-automation** — Automate Doppler Marketing Automation tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **doppler-secretops-automation** — Automate Doppler Secretops tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dotsimple-automation** — Automate Dotsimple tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dovetail-automation** — Automate Dovetail tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dpd2-automation** — Automate Dpd2 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **draftable-automation** — Automate Draftable tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dreamstudio-automation** — Automate Dreamstudio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **drip-jobs-automation** — Automate Drip Jobs tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dripcel-automation** — Automate Dripcel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dromo-automation** — Automate Dromo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dropbox-sign-automation** — Automate Dropbox Sign tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dropcontact-automation** — Automate Dropcontact tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **dungeon-fighter-online-automation** — Automate Dungeon Fighter Online tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Dynamics 365 Automation** — Dynamics 365 Automation: manage CRM contacts, accounts, leads, opportunities, sales orders, invoices, and cases via the Dynamics CRM Web API
+- **echtpost-automation** — Automate Echtpost tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ElevenLabs Automation** — Automate ElevenLabs text-to-speech workflows -- generate speech from text, browse and inspect voices, check subscription limits, list models, stream audio, and 
+- **elorus-automation** — Automate Elorus tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **emailable-automation** — Automate Emailable tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **emaillistverify-automation** — Automate Emaillistverify tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **emailoctopus-automation** — Automate Emailoctopus tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **emelia-automation** — Automate Emelia tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **encodian-automation** — Automate Encodian tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **endorsal-automation** — Automate Endorsal tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **enginemailer-automation** — Automate Enginemailer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **enigma-automation** — Automate Enigma tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **entelligence-automation** — Automate Entelligence tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **eodhd-apis-automation** — Automate Eodhd Apis tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **epic-games-automation** — Automate Epic Games tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **esignatures-io-automation** — Automate Esignatures IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **espocrm-automation** — Automate Espocrm tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **esputnik-automation** — Automate Esputnik tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **etermin-automation** — Automate Etermin tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **evenium-automation** — Automate Evenium tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Eventbrite Automation** — Automate Eventbrite event management, attendee tracking, organization discovery, and category browsing through natural language commands
+- **eventee-automation** — Automate Eventee tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **eventzilla-automation** — Automate Eventzilla tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **everhour-automation** — Automate Everhour tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **eversign-automation** — Automate Eversign tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **exa-automation** — Automate Exa tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Excel Automation** — Excel Automation: create workbooks, manage worksheets, read/write cell data, and format spreadsheets via Microsoft Excel and Google Sheets integration
+- **exist-automation** — Automate Exist tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **expofp-automation** — Automate Expofp tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **extracta-ai-automation** — Automate Extracta AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Facebook Automation** — Automate Facebook Page management including post creation, scheduling, video uploads, Messenger conversations, and audience engagement via Composio
+- **faceup-automation** — Automate Faceup tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **factorial-automation** — Automate Factorial tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **feathery-automation** — Automate Feathery tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **felt-automation** — Automate Felt tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fibery-automation** — Automate Fibery tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fidel-api-automation** — Automate Fidel API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **files-com-automation** — Automate Files Com tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fillout-forms-automation** — Automate Fillout tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fillout_forms-automation** — Automate Fillout tasks via Rube MCP (Composio): forms, submissions, workflows, and form builder. Always search tools first for current schemas.
+- **finage-automation** — Automate Finage tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **findymail-automation** — Automate Findymail tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **finerworks-automation** — Automate Finerworks tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fingertip-automation** — Automate Fingertip tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **finmei-automation** — Automate Finmei tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fireberry-automation** — Automate Fireberry tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Firecrawl Automation** — Automate web crawling and data extraction with Firecrawl -- scrape pages, crawl sites, extract structured data, batch scrape URLs, and map website structures th
+- **fireflies-automation** — Automate Fireflies tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **firmao-automation** — Automate Firmao tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fitbit-automation** — Automate Fitbit tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fixer-automation** — Automate Fixer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fixer-io-automation** — Automate Fixer IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **flexisign-automation** — Automate Flexisign tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **flowiseai-automation** — Automate Flowiseai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **flutterwave-automation** — Automate Flutterwave tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fluxguard-automation** — Automate Fluxguard tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **folk-automation** — Automate Folk tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fomo-automation** — Automate Fomo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **forcemanager-automation** — Automate Forcemanager tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **formbricks-automation** — Automate Formbricks tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **formcarry-automation** — Automate Formcarry tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **formdesk-automation** — Automate Formdesk tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **formsite-automation** — Automate Formsite tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **foursquare-automation** — Automate Foursquare tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fraudlabs-pro-automation** — Automate Fraudlabs Pro tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **FreshBooks Automation** — FreshBooks Automation: manage businesses, projects, time tracking, and billing in FreshBooks cloud accounting
+- **front-automation** — Automate Front tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **fullenrich-automation** — Automate Fullenrich tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gagelist-automation** — Automate Gagelist tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gamma-automation** — Automate Gamma tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gan-ai-automation** — Automate Gan AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gatherup-automation** — Automate Gatherup tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gemini-automation** — Automate Gemini tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gender-api-automation** — Automate Gender API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **genderapi-io-automation** — Automate Genderapi IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **genderize-automation** — Automate Genderize tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **geoapify-automation** — Automate Geoapify tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **geocodio-automation** — Automate Geocodio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **geokeo-automation** — Automate Geokeo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **getform-automation** — Automate Getform tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gift-up-automation** — Automate Gift Up tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gigasheet-automation** — Automate Gigasheet tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **giphy-automation** — Automate Giphy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gist-automation** — Automate Gist tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **givebutter-automation** — Automate Givebutter tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gladia-automation** — Automate Gladia tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **gleap-automation** — Automate Gleap tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **globalping-automation** — Automate Globalping tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **go-to-webinar-automation** — Automate GoToWebinar tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **godial-automation** — Automate Godial tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Gong Automation** — Automate Gong conversation intelligence -- retrieve call recordings, transcripts, detailed analytics, speaker stats, and workspace data -- using natural languag
+- **goodbits-automation** — Automate Goodbits tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **goody-automation** — Automate Goody tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **google-address-validation-automation** — Automate Google Address Validation tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **google-admin-automation** — Automate Google Workspace Admin tasks via Rube MCP (Composio): manage users, groups, memberships, suspend accounts, create users, add aliases. Always search too
+- **google-classroom-automation** — Automate Google Classroom tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **google-cloud-vision-automation** — Automate Google Cloud Vision tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **google-maps-automation** — Automate Google Maps tasks via Rube MCP (Composio): geocode addresses, search places, get directions, compute route matrices, reverse geocode, autocomplete, get
+- **google-search-console-automation** — Automate Google Search Console tasks via Rube MCP (Composio): query search analytics, list sites, inspect URLs, submit sitemaps, monitor search performance. Alw
+- **google_admin-automation** — Automate Google Admin tasks via Rube MCP (Composio): user management, org units, groups, and domain administration. Always search tools first for current schema
+- **google_classroom-automation** — Automate Google Classroom tasks via Rube MCP (Composio): course management, assignments, student rosters, and announcements. Always search tools first for curre
+- **google_maps-automation** — Automate Google Maps tasks via Rube MCP (Composio): geocoding, directions, place search, and distance calculations. Always search tools first for current schema
+- **google_search_console-automation** — Automate Google Search Console tasks via Rube MCP (Composio): search performance, URL inspection, sitemaps, and indexing status. Always search tools first for c
+- **googleads-automation** — Automate Google Ads analytics tasks via Rube MCP (Composio): list Google Ads links, run GA4 reports, check compatibility, list properties and accounts. Always s
+- **googlebigquery-automation** — Automate Google BigQuery tasks via Rube MCP (Composio): run SQL queries, explore datasets and metadata, execute MBQL queries via Metabase integration. Always se
+- **googlecalendar-automation** — Automate Google Calendar tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **googledocs-automation** — Automate Google Docs tasks via Rube MCP (Composio): create, edit, search, export, copy, and update documents. Always search tools first for current schemas.
+- **googledrive-automation** — Automate Google Drive tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **googlemeet-automation** — Automate Google Meet tasks via Rube MCP (Composio): create Meet spaces, schedule video conferences via Calendar events, manage meeting access. Always search too
+- **googlephotos-automation** — Automate Google Photos tasks via Rube MCP (Composio): upload media, manage albums, search photos, batch add items, create and update albums. Always search tools
+- **googleslides-automation** — Automate Google Slides tasks via Rube MCP (Composio): create presentations, add slides from Markdown, batch update, copy from templates, get thumbnails. Always 
+- **googlesuper-automation** — Automate Google Super tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **googletasks-automation** — Automate Google Tasks via Rube MCP (Composio): create, list, update, delete, move, and bulk-insert tasks and task lists. Always search tools first for current s
+- **Gorgias Automation** — Automate e-commerce customer support workflows in Gorgias -- manage tickets, customers, tags, and teams through natural language commands.
+- **gosquared-automation** — Automate Gosquared tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **grafbase-automation** — Automate Grafbase tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **graphhopper-automation** — Automate Graphhopper tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **griptape-automation** — Automate Griptape tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **grist-automation** — Automate Grist tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **GroqCloud Automation** — Automate AI inference, chat completions, audio translation, and TTS voice management through GroqCloud's high-performance API via Composio
+- **Gumroad Automation** — Automate Gumroad product management, sales tracking, license verification, and webhook subscriptions using natural language through the Composio MCP integration
+- **habitica-automation** — Automate Habitica tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **hackernews-automation** — Automate Hackernews tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **happy-scribe-automation** — Automate Happy Scribe tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Harvest Automation** — Automate time tracking, project management, and invoicing workflows in Harvest -- log hours, manage projects, clients, and tasks through natural language comman
+- **hashnode-automation** — Automate Hashnode tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **helcim-automation** — Automate Helcim tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **helloleads-automation** — Automate Helloleads tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **helpwise-automation** — Automate Helpwise tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **here-automation** — Automate Here tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **HeyGen Automation** — Automate AI video generation, avatar browsing, template-based video creation, and video status tracking through HeyGen's platform via Composio
+- **heyreach-automation** — Automate Heyreach tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **heyzine-automation** — Automate Heyzine tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **highergov-automation** — Automate Highergov tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **highlevel-automation** — Automate Highlevel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **honeybadger-automation** — Automate Honeybadger tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **honeyhive-automation** — Automate Honeyhive tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **hookdeck-automation** — Automate Hookdeck tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **hotspotsystem-automation** — Automate Hotspotsystem tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **html-to-image-automation** — Automate Html To Image tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **humanitix-automation** — Automate Humanitix tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **humanloop-automation** — Automate Humanloop tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Hunter Automation** — Automate Hunter.io email intelligence -- search domains for email addresses, find specific contacts, verify email deliverability, manage leads, and monitor acco
+- **hypeauditor-automation** — Automate Hypeauditor tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **hyperbrowser-automation** — Automate Hyperbrowser tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **hyperise-automation** — Automate Hyperise tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **hystruct-automation** — Automate Hystruct tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **icims-talent-cloud-automation** — Automate Icims Talent Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **icypeas-automation** — Automate Icypeas tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **idea-scale-automation** — Automate Idea Scale tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **identitycheck-automation** — Automate Identitycheck tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ignisign-automation** — Automate Ignisign tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **imagekit-io-automation** — Automate Imagekit IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **imgbb-automation** — Automate Imgbb tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **imgix-automation** — Automate Imgix tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **influxdb-cloud-automation** — Automate Influxdb Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **insighto-ai-automation** — Automate Insighto AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **instacart-automation** — Automate Instacart tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Instantly Automation** — Automate Instantly cold email outreach -- manage campaigns, sending accounts, lead lists, bulk lead imports, and campaign analytics -- using natural language th
+- **intelliprint-automation** — Automate Intelliprint tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **interzoid-automation** — Automate Interzoid tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ip2location-automation** — Automate Ip2location tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ip2location-io-automation** — Automate Ip2location IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ip2proxy-automation** — Automate Ip2proxy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ip2whois-automation** — Automate Ip2whois tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ipdata-co-automation** — Automate Ipdata co tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ipinfo-io-automation** — Automate Ipinfo IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **iqair-airvisual-automation** — Automate Iqair Airvisual tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **jigsawstack-automation** — Automate Jigsawstack tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **jobnimbus-automation** — Automate Jobnimbus tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Jotform Automation** — Automate Jotform form listing, user management, activity history, folder organization, and plan inspection through natural language commands
+- **jumpcloud-automation** — Automate Jumpcloud tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **junglescout-automation** — Automate Junglescout tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **kadoa-automation** — Automate Kadoa tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **kaggle-automation** — Automate Kaggle tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **kaleido-automation** — Automate Kaleido tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **keap-automation** — Automate Keap tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **keen-io-automation** — Automate Keen IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **kickbox-automation** — Automate Kickbox tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **kit-automation** — Automate Kit tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **klipfolio-automation** — Automate Klipfolio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ko-fi-automation** — Automate Ko Fi tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Kommo Automation** — Automate Kommo CRM operations -- manage leads, pipelines, pipeline stages, tasks, and custom fields -- using natural language through the Composio MCP integrati
+- **kontent-ai-automation** — Automate Kontent AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **kraken-io-automation** — Automate Kraken IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **l2s-automation** — Automate L2s tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **labs64-netlicensing-automation** — Automate Labs64 Netlicensing tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **landbot-automation** — Automate Landbot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **langbase-automation** — Automate Langbase tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **lastpass-automation** — Automate Lastpass tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **launch_darkly-automation** — Automate LaunchDarkly tasks via Rube MCP (Composio): feature flags, environments, segments, and rollout management. Always search tools first for current schema
+- **LaunchDarkly Automation** — Automate LaunchDarkly feature flag management -- list projects and environments, create and delete trigger workflows, and track code references via the Composio
+- **leadfeeder-automation** — Automate Leadfeeder tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **leadoku-automation** — Automate Leadoku tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **leiga-automation** — Automate Leiga tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Lemlist Automation** — Automate Lemlist multichannel outreach -- manage campaigns, enroll leads, add personalization variables, export campaign data, and handle unsubscribes via the C
+- **Lemon Squeezy Automation** — Automate Lemon Squeezy store management -- products, orders, subscriptions, customers, discounts, and checkout tracking -- using natural language through the Co
+- **lemon_squeezy-automation** — Automate Lemon Squeezy tasks via Rube MCP (Composio): products, orders, subscriptions, checkouts, and digital sales. Always search tools first for current schem
+- **lessonspace-automation** — Automate Lessonspace tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Lever Automation** — Automate recruiting workflows in Lever ATS -- manage opportunities, job postings, requisitions, pipeline stages, and candidate tags through the Composio Lever i
+- **lever-sandbox-automation** — Automate Lever Sandbox tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **leverly-automation** — Automate Leverly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **lexoffice-automation** — Automate Lexoffice tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **linguapop-automation** — Automate Linguapop tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **linkhut-automation** — Automate Linkhut tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **linkup-automation** — Automate Linkup tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **listclean-automation** — Automate Listclean tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **listennotes-automation** — Automate Listennotes tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **livesession-automation** — Automate Livesession tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **lmnt-automation** — Automate Lmnt tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **lodgify-automation** — Automate Lodgify tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **logo-dev-automation** — Automate Logo Dev tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **loomio-automation** — Automate Loomio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **loyverse-automation** — Automate Loyverse tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **magnetic-automation** — Automate Magnetic tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mailbluster-automation** — Automate Mailbluster tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mailboxlayer-automation** — Automate Mailboxlayer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mailcheck-automation** — Automate Mailcheck tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mailcoach-automation** — Automate Mailcoach tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **MailerLite Automation** — Automate email marketing workflows including subscriber management, campaign analytics, group segmentation, and account monitoring through MailerLite via Compos
+- **mailersend-automation** — Automate Mailersend tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mails-so-automation** — Automate Mails So tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mailsoftly-automation** — Automate Mailsoftly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **maintainx-automation** — Automate Maintainx tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **many-chat-automation** — Automate ManyChat tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **many_chat-automation** — Automate ManyChat tasks via Rube MCP (Composio): chatbot flows, subscribers, broadcasts, and messenger automation. Always search tools first for current schemas
+- **mapbox-automation** — Automate Mapbox tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mapulus-automation** — Automate Mapulus tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mboum-automation** — Automate Mboum tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **melo-automation** — Automate Melo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mem-automation** — Automate Mem tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mem0-automation** — Automate Mem0 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **memberspot-automation** — Automate Memberspot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **memberstack-automation** — Automate Memberstack tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **membervault-automation** — Automate Membervault tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **metaads-automation** — Automate Metaads tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **metaphor-automation** — Automate Metaphor tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mezmo-automation** — Automate Mezmo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Microsoft Clarity Automation** — Automate user behavior analytics with Microsoft Clarity -- export heatmap data, session metrics, and engagement analytics segmented by browser, device, country,
+- **microsoft-tenant-automation** — Automate Microsoft Tenant tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **microsoft_clarity-automation** — Automate Microsoft Clarity tasks via Rube MCP (Composio): session recordings, heatmaps, and user behavior analytics. Always search tools first for current schem
+- **minerstat-automation** — Automate Minerstat tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **missive-automation** — Automate Missive tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Mistral AI Automation** — Automate Mistral AI operations -- manage files and libraries, upload documents for fine-tuning, batch processing, and OCR, track fine-tuning jobs, and build RAG
+- **mistral_ai-automation** — Automate Mistral AI tasks via Rube MCP (Composio): completions, embeddings, fine-tuning, and model management. Always search tools first for current schemas.
+- **mocean-automation** — Automate Mocean tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **moco-automation** — Automate Moco tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **modelry-automation** — Automate Modelry tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **moneybird-automation** — Automate Moneybird tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **moonclerk-automation** — Automate Moonclerk tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **moosend-automation** — Automate Moosend tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mopinion-automation** — Automate Mopinion tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **more-trees-automation** — Automate More Trees tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **moxie-automation** — Automate Moxie tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **moz-automation** — Automate Moz tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **msg91-automation** — Automate Msg91 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mural-automation** — Automate Mural tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mx-technologies-automation** — Automate MX Technologies tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **mx-toolbox-automation** — Automate Mx Toolbox tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **nango-automation** — Automate Nango tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **nano-nets-automation** — Automate Nano Nets tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **nasa-automation** — Automate Nasa tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **nasdaq-automation** — Automate Nasdaq tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ncscale-automation** — Automate Ncscale tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **needle-automation** — Automate Needle tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Neon Automation** — Automate Neon serverless Postgres operations -- manage projects, branches, databases, roles, and connection URIs via the Composio MCP integration.
+- **NetSuite Automation** — NetSuite Automation: manage customers, sales orders, invoices, inventory, and records via Oracle NetSuite ERP with SuiteQL queries
+- **neuronwriter-automation** — Automate Neuronwriter tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **neutrino-automation** — Automate Neutrino tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **neverbounce-automation** — Automate Neverbounce tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **New Relic Automation** — Automate New Relic observability workflows -- manage alert policies, notification channels, alert conditions, and monitor applications and browser apps via the 
+- **new_relic-automation** — Automate New Relic tasks via Rube MCP (Composio): APM, alerts, dashboards, NRQL queries, and infrastructure monitoring. Always search tools first for current sc
+- **news-api-automation** — Automate News API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **nextdns-automation** — Automate Nextdns tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ngrok-automation** — Automate Ngrok tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ninox-automation** — Automate Ninox tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **nocrm-io-automation** — Automate Nocrm IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **npm-automation** — Automate NPM tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ocr-web-service-automation** — Automate OCR Web Service tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ocrspace-automation** — Automate Ocrspace tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Omnisend Automation** — Automate ecommerce marketing workflows including contact management, bulk operations, and subscriber segmentation through Omnisend via Composio
+- **oncehub-automation** — Automate Oncehub tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **onedesk-automation** — Automate Onedesk tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **onepage-automation** — Automate Onepage tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **onesignal-rest-api-automation** — Automate OneSignal tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **onesignal-user-auth-automation** — Automate Onesignal User Auth tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **onesignal_rest_api-automation** — Automate OneSignal tasks via Rube MCP (Composio): push notifications, segments, templates, and messaging. Always search tools first for current schemas.
+- **open-sea-automation** — Automate Open Sea tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **OpenAI Automation** — Automate OpenAI API operations -- generate responses with multimodal and structured output support, create embeddings, generate images, and list models via the 
+- **opencage-automation** — Automate Opencage tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **opengraph-io-automation** — Automate Opengraph IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **openperplex-automation** — Automate Openperplex tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **openrouter-automation** — Automate Openrouter tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **openweather-api-automation** — Automate Openweather API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **optimoroute-automation** — Automate Optimoroute tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **owl-protocol-automation** — Automate Owl Protocol tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **page-x-automation** — Automate Page X tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **PandaDoc Automation** — Automate document workflows with PandaDoc -- create documents from files, manage contacts, organize folders, set up webhooks, create templates, and track docume
+- **paradym-automation** — Automate Paradym tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **parallel-automation** — Automate Parallel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **parma-automation** — Automate Parma tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **parsehub-automation** — Automate Parsehub tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **parsera-automation** — Automate Parsera tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **parseur-automation** — Automate Parseur tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **passcreator-automation** — Automate Passcreator tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **passslot-automation** — Automate Passslot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **payhip-automation** — Automate Payhip tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pdf-api-io-automation** — Automate PDF API IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pdf-co-automation** — Automate PDF co tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pdf4me-automation** — Automate Pdf4me tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pdfless-automation** — Automate Pdfless tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pdfmonkey-automation** — Automate Pdfmonkey tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **peopledatalabs-automation** — Automate Peopledatalabs tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **perigon-automation** — Automate Perigon tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **perplexityai-automation** — Automate Perplexityai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **persistiq-automation** — Automate Persistiq tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pexels-automation** — Automate Pexels tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **PhantomBuster Automation** — Automate lead generation, web scraping, and social media data extraction workflows through PhantomBuster's cloud platform via Composio
+- **piggy-automation** — Automate Piggy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **piloterr-automation** — Automate Piloterr tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pilvio-automation** — Automate Pilvio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pingdom-automation** — Automate Pingdom tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pipeline-crm-automation** — Automate Pipeline CRM tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **placekey-automation** — Automate Placekey tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **placid-automation** — Automate Placid tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **plain-automation** — Automate Plain tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **plasmic-automation** — Automate Plasmic tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **platerecognizer-automation** — Automate Platerecognizer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **plisio-automation** — Automate Plisio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **polygon-automation** — Automate Polygon tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **polygon-io-automation** — Automate Polygon IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **poptin-automation** — Automate Poptin tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **postgrid-automation** — Automate Postgrid tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **postgrid-verify-automation** — Automate Postgrid Verify tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **precoro-automation** — Automate Precoro tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **prerender-automation** — Automate Prerender tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **printautopilot-automation** — Automate Printautopilot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **prisma-automation** — Automate Prisma tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Prismic Automation** — Automate headless CMS operations in Prismic -- query documents, search content, retrieve custom types, and manage repository refs through the Composio Prismic i
+- **process-street-automation** — Automate Process Street tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **procfu-automation** — Automate Procfu tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Productboard Automation** — Automate product management workflows in Productboard -- manage features, notes, objectives, components, and releases through natural language commands.
+- **productlane-automation** — Automate Productlane tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **project-bubble-automation** — Automate Project Bubble tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **proofly-automation** — Automate Proofly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **proxiedmail-automation** — Automate Proxiedmail tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pushbullet-automation** — Automate Pushbullet tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **pushover-automation** — Automate Pushover tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **quaderno-automation** — Automate Quaderno tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **qualaroo-automation** — Automate Qualaroo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **QuickBooks Automation** — QuickBooks Automation: manage invoices, customers, accounts, and payments in QuickBooks Online for streamlined bookkeeping
+- **radar-automation** — Automate Radar tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **rafflys-automation** — Automate Rafflys tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ragic-automation** — Automate Ragic tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **raisely-automation** — Automate Raisely tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Ramp Automation** — Ramp Automation: manage corporate card transactions, reimbursements, users, and expense tracking via the Ramp platform
+- **ravenseotools-automation** — Automate Ravenseotools tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **re-amaze-automation** — Automate Re Amaze tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **realphonevalidation-automation** — Automate Realphonevalidation tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **recallai-automation** — Automate Recallai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **recruitee-automation** — Automate Recruitee tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **refiner-automation** — Automate Refiner tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **remarkety-automation** — Automate Remarkety tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **remote-retrieval-automation** — Automate Remote Retrieval tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **remove-bg-automation** — Automate Remove Bg tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **renderform-automation** — Automate Renderform tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **repairshopr-automation** — Automate Repairshopr tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Replicate Automation** — Automate Replicate AI model operations -- run predictions, upload files, inspect model schemas, list versions, and manage prediction history via the Composio MC
+- **reply-automation** — Automate Reply tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **reply-io-automation** — Automate Reply IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **resend-automation** — Automate Resend tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **respond-io-automation** — Automate Respond IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **retailed-automation** — Automate Retailed tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **retellai-automation** — Automate Retellai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **retently-automation** — Automate Retently tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **rev-ai-automation** — Automate Rev AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **revolt-automation** — Automate Revolt tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ring_central-automation** — Automate RingCentral tasks via Rube MCP (Composio): calls, messages, meetings, and unified communications. Always search tools first for current schemas.
+- **RingCentral Automation** — RingCentral automation via Rube MCP -- toolkit not currently available in Composio; no RING_CENTRAL_ tools found
+- **rippling-automation** — Automate Rippling tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ritekit-automation** — Automate Ritekit tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **rkvst-automation** — Automate Rkvst tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **rocketlane-automation** — Automate Rocketlane tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **rootly-automation** — Automate Rootly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **rosette-text-analytics-automation** — Automate Rosette Text Analytics tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **route4me-automation** — Automate Route4me tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **safetyculture-automation** — Automate Safetyculture tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sage-automation** — Automate Sage tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **salesforce-marketing-cloud-automation** — Automate Salesforce Marketing Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **salesforce-service-cloud-automation** — Automate Salesforce Service Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **salesmate-automation** — Automate Salesmate tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sap-successfactors-automation** — Automate SAP SuccessFactors tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **satismeter-automation** — Automate Satismeter tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **scrape-do-automation** — Automate Scrape Do tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **scrapegraph-ai-automation** — Automate Scrapegraph AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **scrapfly-automation** — Automate Scrapfly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **scrapingant-automation** — Automate Scrapingant tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **scrapingbee-automation** — Automate Scrapingbee tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **screenshot-fyi-automation** — Automate Screenshot Fyi tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **screenshotone-automation** — Automate Screenshotone tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **seat-geek-automation** — Automate Seat Geek tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **securitytrails-automation** — Automate Securitytrails tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **segmetrics-automation** — Automate Segmetrics tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **seismic-automation** — Automate Seismic tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **semanticscholar-automation** — Automate Semanticscholar tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **SEMrush Automation** — Automate SEO analysis with SEMrush -- research keywords, analyze domain organic rankings, audit backlinks, assess keyword difficulty, and discover related terms
+- **sendbird-ai-chabot-automation** — Automate Sendbird AI Chabot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sendbird-automation** — Automate Sendbird tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sendfox-automation** — Automate Sendfox tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sendlane-automation** — Automate Sendlane tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sendloop-automation** — Automate Sendloop tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sendspark-automation** — Automate Sendspark tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sensibo-automation** — Automate Sensibo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **seqera-automation** — Automate Seqera tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **serpapi-automation** — Automate Serpapi tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **serpdog-automation** — Automate Serpdog tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **serply-automation** — Automate Serply tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **servicem8-automation** — Automate Servicem8 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sevdesk-automation** — Automate Sevdesk tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **share_point-automation** — Automate SharePoint tasks via Rube MCP (Composio): document libraries, sites, lists, and content management. Always search tools first for current schemas.
+- **SharePoint Automation** — SharePoint Automation: manage sites, lists, documents, folders, pages, and search content across SharePoint and OneDrive
+- **shipengine-automation** — Automate Shipengine tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **short-io-automation** — Automate Short IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **short-menu-automation** — Automate Short Menu tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Shortcut Automation** — Automate project management workflows in Shortcut -- create stories, manage tasks, track epics, and organize workflows through natural language commands.
+- **shorten-rest-automation** — Automate Shorten Rest tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **shortpixel-automation** — Automate Shortpixel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **shotstack-automation** — Automate Shotstack tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sidetracker-automation** — Automate Sidetracker tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **signaturely-automation** — Automate Signaturely tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **signpath-automation** — Automate Signpath tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **signwell-automation** — Automate Signwell tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **similarweb-digitalrank-api-automation** — Automate SimilarWeb tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **similarweb_digitalrank_api-automation** — Automate SimilarWeb tasks via Rube MCP (Composio): website traffic, rankings, and digital market intelligence. Always search tools first for current schemas.
+- **simla-com-automation** — Automate Simla Com tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **simple-analytics-automation** — Automate Simple Analytics tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **simplesat-automation** — Automate Simplesat tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sitespeakai-automation** — Automate Sitespeakai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **skyfire-automation** — Automate Skyfire tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **slackbot-automation** — Automate Slackbot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **smartproxy-automation** — Automate Smartproxy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **smartrecruiters-automation** — Automate Smartrecruiters tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sms-alert-automation** — Automate SMS Alert tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **smtp2go-automation** — Automate Smtp2go tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **smugmug-automation** — Automate Smugmug tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Snowflake Automation** — Automate Snowflake data warehouse operations -- list databases, schemas, and tables, execute SQL statements, and manage data workflows via the Composio MCP inte
+- **sourcegraph-automation** — Automate Sourcegraph tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **splitwise-automation** — Automate Splitwise tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **spoki-automation** — Automate Spoki tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **spondyr-automation** — Automate Spondyr tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Spotify Automation** — Automate Spotify workflows including playlist management, music search, playback control, and user profile access via Composio
+- **spotlightr-automation** — Automate Spotlightr tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sslmate-cert-spotter-api-automation** — Automate Sslmate Cert Spotter API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **stack-exchange-automation** — Automate Stack Exchange tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **stannp-automation** — Automate Stannp tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **starton-automation** — Automate Starton tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **statuscake-automation** — Automate Statuscake tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **storeganise-automation** — Automate Storeganise tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **storerocket-automation** — Automate Storerocket tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **stormglass-io-automation** — Automate Stormglass IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **strava-automation** — Automate Strava tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **streamtime-automation** — Automate Streamtime tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **supadata-automation** — Automate Supadata tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **superchat-automation** — Automate Superchat tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **supportbee-automation** — Automate Supportbee tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **supportivekoala-automation** — Automate Supportivekoala tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **survey_monkey-automation** — Automate SurveyMonkey tasks via Rube MCP (Composio): surveys, responses, collectors, and survey analytics. Always search tools first for current schemas.
+- **SurveyMonkey Automation** — Automate SurveyMonkey survey creation, response collection, collector management, and survey discovery through natural language commands
+- **svix-automation** — Automate Svix tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **sympla-automation** — Automate Sympla tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **synthflow-ai-automation** — Automate Synthflow AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **taggun-automation** — Automate Taggun tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **talenthr-automation** — Automate Talenthr tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tally-automation** — Automate Tally tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tapfiliate-automation** — Automate Tapfiliate tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tapform-automation** — Automate Tapform tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tavily-automation** — Automate Tavily tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **taxjar-automation** — Automate Taxjar tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **teamcamp-automation** — Automate Teamcamp tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **telnyx-automation** — Automate Telnyx tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **teltel-automation** — Automate Teltel tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **templated-automation** — Automate Templated tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **test-app-automation** — Automate Test App tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **text-to-pdf-automation** — Automate Text To PDF tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **textcortex-automation** — Automate Textcortex tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **textit-automation** — Automate Textit tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **textrazor-automation** — Automate Textrazor tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **thanks-io-automation** — Automate Thanks IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **the-odds-api-automation** — Automate The Odds API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ticketmaster-automation** — Automate Ticketmaster tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ticktick-automation** — Automate Ticktick tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **timecamp-automation** — Automate Timecamp tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **timekit-automation** — Automate Timekit tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **timelinesai-automation** — Automate Timelinesai tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **timelink-automation** — Automate Timelink tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **timely-automation** — Automate Timely tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tinyurl-automation** — Automate Tinyurl tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tisane-automation** — Automate Tisane tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Toggl Automation** — Automate time tracking workflows in Toggl Track -- create time entries, manage projects, clients, tags, and workspaces through natural language commands.
+- **token-metrics-automation** — Automate Token Metrics tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tomba-automation** — Automate Tomba tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tomtom-automation** — Automate Tomtom tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **toneden-automation** — Automate Toneden tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tpscheck-automation** — Automate Tpscheck tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **triggercmd-automation** — Automate Triggercmd tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **tripadvisor-content-api-automation** — Automate TripAdvisor tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **turbot-pipes-automation** — Automate Turbot Pipes tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **turso-automation** — Automate Turso tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **twelve-data-automation** — Automate Twelve Data tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **twitch-automation** — Automate Twitch tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **twocaptcha-automation** — Automate Twocaptcha tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **typefully-automation** — Automate Typefully tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **typless-automation** — Automate Typless tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **u301-automation** — Automate U301 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **unione-automation** — Automate Unione tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **updown-io-automation** — Automate Updown IO tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Uploadcare Automation** — Automate Uploadcare file management including listing, storing, inspecting, downloading, and organizing file groups through natural language commands
+- **uptimerobot-automation** — Automate Uptimerobot tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **userlist-automation** — Automate Userlist tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **v0-automation** — Automate V0 tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **venly-automation** — Automate Venly tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **veo-automation** — Automate Veo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **verifiedemail-automation** — Automate Verifiedemail tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **veriphone-automation** — Automate Veriphone tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **vero-automation** — Automate Vero tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **vestaboard-automation** — Automate Vestaboard tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **virustotal-automation** — Automate Virustotal tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **visme-automation** — Automate Visme tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **waboxapp-automation** — Automate Waboxapp tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **wachete-automation** — Automate Wachete tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **waiverfile-automation** — Automate Waiverfile tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **wakatime-automation** — Automate Wakatime tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **wati-automation** — Automate Wati tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Wave Accounting Automation** — Wave Accounting toolkit is not currently available as a native integration. No Wave-specific tools were found in the Composio platform. This skill is a placehol
+- **wave_accounting-automation** — Automate Wave Accounting tasks via Rube MCP (Composio): invoices, customers, payments, and small business accounting. Always search tools first for current sche
+- **weathermap-automation** — Automate Weathermap tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Webex Automation** — Automate Cisco Webex messaging, rooms, teams, webhooks, and people management through natural language commands
+- **webscraping-ai-automation** — Automate Webscraping AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **webvizio-automation** — Automate Webvizio tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **whautomate-automation** — Automate Whautomate tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **winston-ai-automation** — Automate Winston AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **wit-ai-automation** — Automate Wit AI tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **wiz-automation** — Automate Wiz tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **wolfram-alpha-api-automation** — Automate Wolfram Alpha API tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **woodpecker-co-automation** — Automate Woodpecker co tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **workable-automation** — Automate Workable tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Workday Automation** — Automate HR operations in Workday -- manage workers, time off requests, absence balances, and employee data through natural language commands.
+- **workiom-automation** — Automate Workiom tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **worksnaps-automation** — Automate Worksnaps tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **writer-automation** — Automate Writer tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Xero Automation** — Xero Automation: manage invoices, contacts, payments, bank transactions, and accounts in Xero for cloud-based bookkeeping
+- **y-gy-automation** — Automate Y Gy tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **yandex-automation** — Automate Yandex tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **yelp-automation** — Automate Yelp tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **ynab-automation** — Automate Ynab tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **yousearch-automation** — Automate Yousearch tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zenrows-automation** — Automate Zenrows tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zenserp-automation** — Automate Zenserp tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zeplin-automation** — Automate Zeplin tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zerobounce-automation** — Automate Zerobounce tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **Zoho Books Automation** — Automate Zoho Books accounting workflows including invoice creation, bill management, contact lookup, payment tracking, and multi-organization support through n
+- **Zoho Desk Automation** — Zoho Desk automation via Rube MCP -- toolkit not currently available in Composio; no ZOHO_DESK_ tools found
+- **zoho-automation** — Automate Zoho tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zoho-bigin-automation** — Automate Zoho Bigin tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zoho-inventory-automation** — Automate Zoho Inventory tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zoho-invoice-automation** — Automate Zoho Invoice tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zoho-mail-automation** — Automate Zoho Mail tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zoho_bigin-automation** — Automate Zoho Bigin tasks via Rube MCP (Composio): pipelines, contacts, companies, products, and small business CRM. Always search tools first for current schem
+- **zoho_books-automation** — Automate Zoho Books tasks via Rube MCP (Composio): invoices, expenses, contacts, payments, and accounting. Always search tools first for current schemas.
+- **zoho_desk-automation** — Automate Zoho Desk tasks via Rube MCP (Composio): tickets, contacts, agents, departments, and help desk operations. Always search tools first for current schema
+- **zoho_inventory-automation** — Automate Zoho Inventory tasks via Rube MCP (Composio): items, orders, warehouses, shipments, and stock management. Always search tools first for current schemas
+- **zoho_invoice-automation** — Automate Zoho Invoice tasks via Rube MCP (Composio): invoices, estimates, expenses, clients, and payment tracking. Always search tools first for current schemas
+- **zoho_mail-automation** — Automate Zoho Mail tasks via Rube MCP (Composio): email sending, folders, labels, and mailbox management. Always search tools first for current schemas.
+- **zoominfo-automation** — Automate Zoominfo tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zylvie-automation** — Automate Zylvie tasks via Rube MCP (Composio). Always search tools first for current schemas.
+- **zyte-api-automation** — Automate Zyte API tasks via Rube MCP (Composio). Always search tools first for current schemas.

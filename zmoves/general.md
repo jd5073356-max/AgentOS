@@ -1,0 +1,71 @@
+# Movimientos Z · categoría: general
+> 68 skills. Cada una es un superpoder temporal que cualquier ejecutor/agente puede equipar.
+
+- **3d-scroll-website** — Build premium 3D scroll-animated websites from scratch — the full pipeline from Next.js setup through canvas frame-sequence animations, smooth scroll, neumorphi
+- **artifacts-builder** — Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for
+- **autoplan** — |
+- **benchmark** — |
+- **blender-mcp** — Use when the user wants to control Blender 3D with natural language — create objects, apply materials, configure lighting, or download assets — via MCP integrat
+- **browse** — |
+- **canary** — |
+- **careful** — |
+- **changelog-generator** — Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, 
+- **checkpoint** — |
+- **cinco-herramientas** — Use when the user wants to install or use any of the 5 top free Claude Code tools: Superpowers, Everything Claude Code, UI UX Pro Max, claude-mem, or n8n-MCP.
+- **codex** — |
+- **competitive-ads-extractor** — Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and creative approaches are working.
+- **connect** — Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 1000+ servic
+- **connect-apps** — Connect Claude to external apps like Gmail, Slack, GitHub. Use this skill when the user wants to send emails, create issues, post messages, or take actions in e
+- **connect-chrome** — |
+- **content-research-writer** — Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on ea
+- **context-engineering-collection** — A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or d
+- **cpppro** — Use when someone asks to create, comment, or fix C++ code, analyze a .cpp/.h file, or improve its quality.
+- **cso** — |
+- **design-consultation** — |
+- **design-html** — |
+- **design-review** — |
+- **design-shotgun** — |
+- **developer-growth-analysis** — Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvement, curates relevant learning resources from
+- **document-release** — |
+- **domain-name-brainstormer** — Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming an
+- **file-organizer** — Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating c
+- **freeze** — |
+- **gstack** — |
+- **hive-init** — Use when someone wants to initialize the hive mind, set up shared context between Claude Code and Antigravity, or add .hive/ and .antigravity/ to a project.
+- **htmlcsspro** — Use when someone asks to create, comment, or fix HTML/CSS code, analyze an .html or .css file, or improve its quality.
+- **humanizalo** — |
+- **image-enhancer** — Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documen
+- **investment-analysis** — |
+- **invoice-organizer** — Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting th
+- **javapro** — Use when someone asks to create, comment, or fix JavaScript code, analyze a .js file, or improve its quality.
+- **langsmith-fetch** — Debug LangChain and LangGraph agents by fetching execution traces from LangSmith Studio. Use when debugging agent behavior, investigating errors, analyzing tool
+- **last30days** — Deep research engine covering the last 30 days across 10+ sources - Reddit, X/Twitter, YouTube, TikTok, Instagram, Hacker News, Polymarket, and the web. AI synt
+- **lead-research-assistant** — Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategie
+- **list** — Use when someone asks to list all available Claude Code skills and their short descriptions.
+- **meeting-insights-analyzer** — Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict,
+- **memories** — Use when the user types /memories to load chat history and context from the sincronizacion folder. Loads previous conversations as context for the current sessi
+- **meta-ads** — Use when the user wants to audit, create, or manage Meta (Facebook/Instagram) ad campaigns safely using Claude with built-in compliance rules and confirmation g
+- **metaskill** — Use when creating new skills, optimizing existing skills, or auditing skill quality. Guides skill development following Claude Code official best practices.
+- **n8n-code-javascript** — Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with d
+- **n8n-code-python** — Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with standard library, or need to understand Pytho
+- **n8n-expression-syntax** — Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expr
+- **n8n-mcp-tools-expert** — Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, managing
+- **n8n-node-configuration** — Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_
+- **n8n-validation-expert** — Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, false positives, operator structure issues, or 
+- **n8n-workflow-patterns** — Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, plann
+- **notebooklm** — Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation,
+- **open-carrusel** — Use when the user wants to create, preview, or export Instagram carousel posts automatically. Manages the Open Carrusel agent (Next.js + Puppeteer + Claude).
+- **phppro** — Use when someone asks to create, comment, or fix PHP code, analyze a .php file, or improve its quality.
+- **piloto-automatico** — Use when the user wants to configure YOLO mode, hooks, GSD skill, or Superpowers to run Claude autonomously without permission prompts.
+- **pythonpro** — Use when someone asks to create, comment, or fix Python code, analyze a .py file, or improve its quality.
+- **raffle-winner-picker** — Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.
+- **scrapling** — Use when the user wants to extract leads, build client lists, or scrape contact data from Google Maps, directories, or social networks using the Scrapling MCP.
+- **sincronizacion** — Use when someone asks to sync a conversation to Obsidian, save chat to markdown, backup conversation, or automatically at the end of conversations.
+- **skill-share** — A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.
+- **skill-template** — Template for creating new Agent Skills for context engineering. Use this template when adding new skills to the collection.
+- **sqlpro** — Use when someone asks to create, comment, or fix SQL queries or database schema files (.sql), analyze a .sql file, or improve its quality.
+- **tailored-resume-generator** — Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances
+- **template-skill** — Replace with description of the skill and when Claude should use it.
+- **twitter-algorithm-optimizer** — Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit user tweets to improve engagement and visibility 
+- **yolo** — Activate YOLO mode — Claude trabaja sin pedir confirmación en cada comando. Requiere setup de protección via hooks primero. Solo para Juan.
+- **youtube-downloader** — Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, save, or grab YouTube videos. Supports vari
